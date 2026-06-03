@@ -1,0 +1,16 @@
+*.class
+.env
+*.log
+out/
+build/
+target/
+
+.idea/
+*.iml
+
+.vscode/
+
+*.jks
+
+.DS_Store
+Thumbs.db
